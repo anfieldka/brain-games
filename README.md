@@ -6,7 +6,7 @@
 
 ## Installation
 ```
-npm i anf-project-lvl1-braingames -g
+npm install -g anfikkk-brain-games
 ```
 ## You will find 5 games inside this package:
 ```
